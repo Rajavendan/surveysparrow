@@ -1,0 +1,122 @@
+[
+  {
+    "id": "1",
+    "title": "Team Meeting",
+    "date": "2025-01-15",
+    "startTime": "09:00",
+    "endTime": "10:30",
+    "duration": 90,
+    "description": "Weekly team sync meeting to discuss project progress and upcoming deadlines.",
+    "category": "meeting"
+  },
+  {
+    "id": "2",
+    "title": "Project Deadline",
+    "date": "2025-01-15",
+    "startTime": "17:00",
+    "endTime": "17:30",
+    "duration": 30,
+    "description": "Final submission for the Q1 project deliverables.",
+    "category": "work"
+  },
+  {
+    "id": "3",
+    "title": "Doctor Appointment",
+    "date": "2025-01-18",
+    "startTime": "14:00",
+    "endTime": "15:00",
+    "duration": 60,
+    "description": "Annual health checkup appointment.",
+    "category": "personal"
+  },
+  {
+    "id": "4",
+    "title": "Client Presentation",
+    "date": "2025-01-20",
+    "startTime": "11:00",
+    "endTime": "12:00",
+    "duration": 60,
+    "description": "Present the new product features to the client stakeholders.",
+    "category": "meeting"
+  },
+  {
+    "id": "5",
+    "title": "Birthday Party",
+    "date": "2025-01-22",
+    "startTime": "18:00",
+    "endTime": "22:00",
+    "duration": 240,
+    "description": "Sarah's birthday celebration at the downtown venue.",
+    "category": "personal"
+  },
+  {
+    "id": "6",
+    "title": "Code Review",
+    "date": "2025-01-23",
+    "startTime": "10:00",
+    "endTime": "11:00",
+    "duration": 60,
+    "description": "Review the new authentication system implementation.",
+    "category": "work"
+  },
+  {
+    "id": "7",
+    "title": "Gym Session",
+    "date": "2025-01-25",
+    "startTime": "07:00",
+    "endTime": "08:30",
+    "duration": 90,
+    "description": "Morning workout session - legs and cardio.",
+    "category": "personal"
+  },
+  {
+    "id": "8",
+    "title": "Sprint Planning",
+    "date": "2025-01-27",
+    "startTime": "09:30",
+    "endTime": "11:00",
+    "duration": 90,
+    "description": "Plan the next sprint tasks and user stories.",
+    "category": "meeting"
+  },
+  {
+    "id": "9",
+    "title": "Quarterly Review",
+    "date": "2025-01-30",
+    "startTime": "15:00",
+    "endTime": "16:30",
+    "duration": 90,
+    "description": "Q4 performance review and goal setting for Q1.",
+    "category": "work"
+  },
+  {
+    "id": "10",
+    "title": "Overlapping Meeting A",
+    "date": "2025-01-28",
+    "startTime": "14:00",
+    "endTime": "15:00",
+    "duration": 60,
+    "description": "First meeting scheduled at 2 PM.",
+    "category": "meeting"
+  },
+  {
+    "id": "11",
+    "title": "Overlapping Meeting B",
+    "date": "2025-01-28",
+    "startTime": "14:30",
+    "endTime": "15:30",
+    "duration": 60,
+    "description": "Second meeting overlapping with the first one.",
+    "category": "work"
+  },
+  {
+    "id": "12",
+    "title": "Pay Bills Reminder",
+    "date": "2025-01-31",
+    "startTime": "12:00",
+    "endTime": "12:15",
+    "duration": 15,
+    "description": "Monthly utility bills payment reminder.",
+    "category": "reminder"
+  }
+]
